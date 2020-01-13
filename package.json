@@ -1,0 +1,8 @@
+{
+  "name": "eslint-config",
+  "version": "1.0.0",
+  "description": "Shared eslint configuration for DrayNow",
+  "main": "index.js",
+  "repository": "git@github.com:azz/prettier-config.git",
+  "license": "MIT"
+}
