@@ -1,5 +1,5 @@
 {
-  "name": "eslint-config",
+  "name": "@draynow/eslint-config",
   "version": "1.0.0",
   "description": "Shared eslint configuration for DrayNow",
   "main": "index.js",
